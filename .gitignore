@@ -62,4 +62,6 @@ target/
 *.brd
 *.art
 *.drl
+*.json
+secret/
 

@@ -62,4 +62,4 @@ target/
 *.brd
 *.art
 *.drl
-
+secret/
